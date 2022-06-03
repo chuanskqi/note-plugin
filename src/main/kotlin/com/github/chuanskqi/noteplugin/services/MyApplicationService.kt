@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chuanskqi.noteplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chuanskqi.noteplugin.MyBundle
 
 class MyApplicationService {
 
